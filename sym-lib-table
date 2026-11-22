@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SYM1")(type "KiCad")(uri "${KIPRJMOD}/SYM1.kicad_sym")(options "")(descr "SYM-1 RAM expansion symbols"))
+)
